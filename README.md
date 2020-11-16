@@ -1,1 +1,1 @@
-# thrift
+# Atividad thrift
